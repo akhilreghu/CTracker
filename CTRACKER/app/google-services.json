@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637167626457",
+    "firebase_url": "https://ctracker-ac8a6.firebaseio.com",
+    "project_id": "ctracker-ac8a6",
+    "storage_bucket": "ctracker-ac8a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637167626457:android:8d95f6950243509e11f6c8",
+        "android_client_info": {
+          "package_name": "com.akhilinteractive.ctracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637167626457-9et8ub1a1lo67h6jggq5kio5pkkusuhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akhilinteractive.ctracker",
+            "certificate_hash": "4e7c91847d7b1fadd326d1ff20ed31ea57ff5348"
+          }
+        },
+        {
+          "client_id": "637167626457-q9tdeuh3jce6jjp5mnr22enforiujdrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKknB_a_cxakAPTQmp5pBMbyhLLL7hzmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637167626457-q9tdeuh3jce6jjp5mnr22enforiujdrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
